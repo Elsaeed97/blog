@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 3. (Optional) Create and activate a virtual environment: virtualenv venv
 
-- Activate Virtualenv: source env/bin/activate
+- Activate Virtualenv: source venv/bin/activate
 
 4. Install dependencies: pip install -r requirements.txt
 
